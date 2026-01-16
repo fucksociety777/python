@@ -11,5 +11,5 @@ import requests
 os.abort
 print(math.sqrt(16))
 mymodule.hello()
-r = requests.get("https://www.alfennzo.com")
+r = requests.get("https://www.google.com")
 print(r.text)
